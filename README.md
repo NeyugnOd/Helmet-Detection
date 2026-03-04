@@ -1,6 +1,6 @@
 # Demo nhận diện người không đội mũ bảo hiểm
 
-## Thuộc đồ án môn học CS420 - Các vấn đề chọn lọc trong Thị giác máy tính
+## Thuộc đồ án môn học MTH10331 - Biến hình và xử lý ảnh
 
 > Giảng viên: Trần Anh Tuấn (A)
 
